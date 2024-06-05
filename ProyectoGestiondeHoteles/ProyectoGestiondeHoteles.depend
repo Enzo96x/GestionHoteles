@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1716785965 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\main.cpp
+	<iostream>
+	"Menu.h"
+
+1715919369 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\src\habitacion.cpp
+	"Habitacion.h"
+
+1716952695 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\habitacion.h
+	"Cama.h"
+	<iostream>
+	<cstring>
+
+1716783915 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\menu.cpp
+	"Menu.h"
+
+1716783890 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\menu.h
+	"ArchivoReservas.h"
+	<cstdlib>
+	<iostream>
+
+1715919445 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectotarea\fecha.cpp
+	"Fecha.h"
+
+1715919389 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectotarea\fecha.h
+	<cstdio>
+	<iostream>
+	<cstring>
+	"Fecha.h"
+
+1716095122 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\cama.h
+
+1716095122 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\cama.cpp
+	"Cama.h"
+
+1716334463 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\fecha.cpp
+	"Fecha.h"
+
+1716276964 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\fecha.h
+	<cstdio>
+	<iostream>
+	<cstring>
+	"Hora.h"
+
+1716703264 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\habitacion.cpp
+	"Habitacion.h"
+
+1716189728 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\persona.cpp
+	"Persona.h"
+
+1716189695 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\persona.h
+	<iostream>
+	<cstring>
+
+1716703245 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\reserva.cpp
+	"Reserva.h"
+
+1716703245 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\reserva.h
+	"Habitacion.h"
+	"Fecha.h"
+	"Persona.h"
+
+1715920422 source:c:\users\santiago\desktop\proyectogestiondehoteles\cama.cpp
+	"Cama.h"
+
+1715920422 c:\users\santiago\desktop\proyectogestiondehoteles\cama.h
+
+1715920422 source:c:\users\santiago\desktop\proyectogestiondehoteles\fecha.cpp
+	"Fecha.h"
+
+1715920422 c:\users\santiago\desktop\proyectogestiondehoteles\fecha.h
+	<cstdio>
+	<iostream>
+	<cstring>
+	"Fecha.h"
+
+1715980895 source:c:\users\santiago\desktop\proyectogestiondehoteles\habitacion.cpp
+	"Habitacion.h"
+
+1715980895 c:\users\santiago\desktop\proyectogestiondehoteles\habitacion.h
+	"Cama.h"
+	<iostream>
+	<cstring>
+
+1715919370 source:c:\users\santiago\desktop\proyectogestiondehoteles\main.cpp
+	<iostream>
+
+1715919370 source:c:\users\santiago\desktop\proyectogestiondehoteles\menu.cpp
+	"Menu.h"
+
+1715919408 c:\users\santiago\desktop\proyectogestiondehoteles\menu.h
+
+1715926740 source:c:\users\santiago\desktop\proyectogestiondehoteles\persona.cpp
+	"Persona.h"
+
+1715926346 c:\users\santiago\desktop\proyectogestiondehoteles\persona.h
+	<iostream>
+	<cstring>
+
+1715926666 source:c:\users\santiago\desktop\proyectogestiondehoteles\reserva.cpp
+	"Reserva.h"
+
+1715980159 c:\users\santiago\desktop\proyectogestiondehoteles\reserva.h
+	"Habitacion.h"
+	"Fecha.h"
+	"Persona.h"
+
+1716334428 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\hora.h
+	<iostream>
+
+1716334428 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\hora.cpp
+	"Hora.h"
+
+1716528255 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\reservaarchivo.cpp
+	"ReservaArchivo.h"
+
+1716783671 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\reservaarchivo.h
+
+1716791042 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\archivohabitaciones.cpp
+	"ArchivoHabitaciones.h"
+
+1716791029 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\archivohabitaciones.h
+	"Habitacion.h"
+
+1716783890 source:c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\archivoreservas.cpp
+	"ArchivoReservas.h"
+
+1716791029 c:\users\enzo\desktop\tercer catrimestre\actividad\actividad\proyectogestiondehoteles\archivoreservas.h
+	"Reserva.h"
+
